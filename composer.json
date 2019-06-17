@@ -1,0 +1,11 @@
+{
+    "name": "david/slim0619",
+    "description": "Projet php utilisant le microFramework Slim en version 3",
+    "authors": [
+        {
+            "name": "ollanga",
+            "email": "ollangamoubambadavid@gmail.com"
+        }
+    ],
+    "require": {}
+}
